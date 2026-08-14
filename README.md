@@ -1,5 +1,4 @@
 # Analise-do-Erro
-# Atividade Prática - Testes de Software
 
 **Curso:** Técnico em Desenvolvimento de Sistemas
 **Professor:** André Denani
